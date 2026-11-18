@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "auto_load_on_startup": false,
+  "summary": "Deterministic WAI-ARIA component scaffolds (menu, form, approval-card, table) for React, Vue, Svelte, and HTML.",
+  "system_binaries": [],
+  "python_packages": [],
+  "models": [],
+  "env_vars": [],
+  "system_install_hints": [
+    "No external runtime packages required; run ui_sdk_scaffold.py scaffold for target framework."
+  ]
+}
